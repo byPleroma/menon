@@ -5,7 +5,7 @@ Written in C with GTK and GLib, I present "Menon", a lightweight application men
 
 # 🚀 Menon
 
-<img width="785" height="757" alt="Captura de tela_2026-04-25_01-42-44 (1)" src="https://github.com/user-attachments/assets/9029caac-1485-421c-9d6c-af6751c35fbf" />
+<img width="440" height="450" alt="Captura de tela_2026-04-25_01-42-44 (1)" src="https://github.com/user-attachments/assets/9029caac-1485-421c-9d6c-af6751c35fbf" />
 
 **The high-performance alternative to Whisker Menu.**
 
