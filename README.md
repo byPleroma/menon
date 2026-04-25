@@ -5,9 +5,9 @@ Written in C with GTK and GLib, I present "Menon", a lightweight application men
 
 # 🚀 Menon
 
+**The high-performance alternative to Whisker Menu.**
 <img width="440" height="450" alt="Captura de tela_2026-04-25_01-42-44 (1)" src="https://github.com/user-attachments/assets/9029caac-1485-421c-9d6c-af6751c35fbf" />
 
-**The high-performance alternative to Whisker Menu.**
 
 **Menon** is an application launcher for Linux (specifically optimized for XFCE) written in pure C and GTK. It was designed for users seeking the perfect balance between **Windows 11 aesthetic minimalism** and **raw Unix efficiency**.
 
